@@ -1,0 +1,29 @@
+- name: Noto Serif CJK TC
+  displayname: 思源宋體
+  category: serif
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist/NotoSerifCJKtc-Black
+        weight: 900
+        xfl: true
+      - filename: dist/NotoSerifCJKtc-Bold
+        weight: 700
+        xfl: true
+      - filename: dist/NotoSerifCJKtc-SemiBold
+        weight: 600
+        xfl: true
+      - filename: dist/NotoSerifCJKtc-Medium
+        weight: 500
+        xfl: true
+      - filename: dist/NotoSerifCJKtc-Regular
+        weight: 400
+        xfl: true
+      - filename: dist/NotoSerifCJKtc-Light
+        weight: 300
+        xfl: true
+      - filename: dist/NotoSerifCJKtc-ExtraLight
+        weight: 200
+        xfl: true
